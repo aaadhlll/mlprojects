@@ -1,5 +1,9 @@
-pandas
-seaborn
-numpy
--e .
+#pandas
+#seaborn
+#numpy
+#matplotlib
+#catboost
+#scikit-learn
+xgboost
+#-e .
 
